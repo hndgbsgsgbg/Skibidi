@@ -1,6 +1,7 @@
 # Ojami moderation handbook
 
 Written by chatgbt
+
 Edited by BROARINO
 
 ## 📜 Server moderation guide: The Basics

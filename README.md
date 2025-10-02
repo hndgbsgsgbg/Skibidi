@@ -54,9 +54,9 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
 
 ** ALL PUNISHMENTS WILL BE IN THE GUIDEBOOK FURTHER DOWN **
 
-⚠️ Punishment Guidelines
+### ⚠️ Punishment Guidelines
 
-🚫 Severe NSFW Content
+#### 🚫 Severe NSFW Content
 CP / Pedo / Necro / Zoophilia images uncropped or cropped, illustrations and sites
 
 Immidiate Perm Ban, also report user & content to Discord Trust & Safety.
@@ -65,30 +65,30 @@ Gore content including illustrated gore: Perm Ban
 
 Shock Sites/Illegal Sites (e.g., pornhub, kekma): Perm Ban
 
-🚫 NSFW Content
-Cropped Porn
+#### 🚫 NSFW Content
+* Cropped Porn
 
 
-1st: 3h Mute
+** 1st: 3h Mute
 
 
-2nd: 3d Ban
+** 2nd: 3d Ban
 
 
-3rd: 7d Ban
+** 3rd: 7d Ban
 
 
-Other NSFW (uncropped, graphic)
+* Other NSFW (uncropped, graphic)
 
 
-1st & 2nd: 7d Ban
+** 1st & 2nd: 7d Ban
 
 
-3rd: Perm Ban
+** 3rd: Perm Ban
 
 
 
-🤡 Offensive Memes/Jokes
+#### 🤡 Offensive Memes/Jokes
 Humor is subjective, and it can sometimes be difficult to tell the difference between a joke and hateful/harmful conduct. When reviewing situations, always consider context — but also remember that intent does not erase impact.
 
 All punishments listed below assume the member has clearly and fully violated the rule. If the situation is borderline or unclear, use your judgment and consult with other staff before issuing a punishment.
@@ -140,7 +140,7 @@ KKK Memes/Jokes
 
 
 
-🗳️ Politics
+#### 🗳️ Politics
 Political extremism 
 
 
@@ -175,7 +175,7 @@ Other Nazi-related behavior
 
 
 
-🏳️‍🌈 Homophobia and 🧑🏾 Racism
+#### 🏳️‍🌈 Homophobia and 🧑🏾 Racism
 “fag”: Allowed (community context).
 “nigga”: Allowed (community context).
 
@@ -207,7 +207,7 @@ General homophobia or Racist Behavior:
 
 
 
-👶 Minors / Age Violations
+#### 👶 Minors / Age Violations
 Suspected Underage
 
 
@@ -233,7 +233,7 @@ Sexualizing Themselves (Minor/Adult)
 
 
 
-❌ Wrong Channel Use
+#### ❌ Wrong Channel Use
 Bot commands outside #general, #bot-commands, or #music
 
 
@@ -244,7 +244,7 @@ Repeat: 3h Mute
 
 
 
-📢 Spam & Ads
+#### 📢 Spam & Ads
 Advertising (includes advertising in dms)
 
 
@@ -270,7 +270,7 @@ Bot Spam
 
 
 
-🤖 Bot Prefixes
+#### 🤖 Bot Prefixes
 CarlBot: !
 
 

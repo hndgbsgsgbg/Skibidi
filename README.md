@@ -6,7 +6,7 @@ Edited by BROARINO
 ## 📜 Server moderation guide: The Basics
 Welcome to the moderation team! This document outlines our core principles, rules, and procedures to ensure we're all on the same page and can moderate effectively and fairly.
 
-🎯 Moderator's Responsibilities & Rules
+### 🎯 Moderator's Responsibilities & Rules
 Your primary role as a moderator is to foster a safe, welcoming, and engaging environment for our community. You are not just enforcers, but also role models.
 
 1. Be Proactive & Active: Don't just wait for reports. Keep an eye on conversations and engage with the community for at least 15–30 minutes per day.
@@ -37,7 +37,7 @@ Your primary role as a moderator is to foster a safe, welcoming, and engaging en
 
 14. No Bribes: Accepting bribes for staff privileges or actions is strictly prohibited — even if we’re understaffed.
 
-⚖️ The rule hierarchy (Enforcement Steps)
+### ⚖️ The rule hierarchy (Enforcement Steps)
 We use an escalation system to be fair and give members a chance to correct their behavior. The severity of the action can skip steps for serious offenses.
 
 * Standard Process: Verbal Warning (Public or DM): A friendly, but clear, reminder of the rules. Use this for minor, first-time offenses.

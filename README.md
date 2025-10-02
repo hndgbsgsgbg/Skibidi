@@ -284,13 +284,13 @@ All punishments listed below assume the member has clearly and fully violated th
 
 
 #### 🤖 Bot Prefixes
-CarlBot: !
+  - CarlBot: !
 
 
-Dyno: ?
+  - Dyno: ?
 
 
-LastFM: .
+  - LastFM: .
 
 
 

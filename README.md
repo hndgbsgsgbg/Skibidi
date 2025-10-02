@@ -181,6 +181,7 @@ All punishments listed below assume the member has clearly and fully violated th
 
 #### 🏳️‍🌈 Homophobia and 🧑🏾 Racism
 “fag”: Allowed (community context).
+
 “nigga”: Allowed (community context).
 
 * “faggot” “Nigger” (f-slur and N-word), Slur Bypasses Words like “niger”, “fagot”, or video/slur bypasses still count.

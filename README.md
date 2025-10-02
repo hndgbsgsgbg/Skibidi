@@ -118,10 +118,10 @@ All punishments listed below assume the member has clearly and fully violated th
 * Terrorism Jokes
 
 
- - 1st: 4d Ban
+   - 1st: 4d Ban
 
 
- - 2nd: Perm Ban
+   - 2nd: Perm Ban
 
 
 * Rape Jokes

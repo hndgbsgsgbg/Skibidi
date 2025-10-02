@@ -57,34 +57,34 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
 ### ⚠️ Punishment Guidelines
 
 #### 🚫 Severe NSFW Content
-CP / Pedo / Necro / Zoophilia images uncropped or cropped, illustrations and sites
+* CP / Pedo / Necro / Zoophilia images uncropped or cropped, illustrations and sites
 
-Immidiate Perm Ban, also report user & content to Discord Trust & Safety.
+* Immidiate Perm Ban, also report user & content to Discord Trust & Safety.
 
-Gore content including illustrated gore: Perm Ban
+* Gore content including illustrated gore: Perm Ban
 
-Shock Sites/Illegal Sites (e.g., pornhub, kekma): Perm Ban
+* Shock Sites/Illegal Sites (e.g., pornhub, kekma): Perm Ban
 
 #### 🚫 NSFW Content
 * Cropped Porn
 
 
-** 1st: 3h Mute
+- 1st: 3h Mute
 
 
-** 2nd: 3d Ban
+- 2nd: 3d Ban
 
 
-** 3rd: 7d Ban
+- 3rd: 7d Ban
 
 
 * Other NSFW (uncropped, graphic)
 
 
-** 1st & 2nd: 7d Ban
+- 1st & 2nd: 7d Ban
 
 
-** 3rd: Perm Ban
+- 3rd: Perm Ban
 
 
 

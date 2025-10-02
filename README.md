@@ -59,11 +59,11 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
 #### 🚫 Severe NSFW Content
 * CP / Pedo / Necro / Zoophilia images uncropped or cropped, illustrations and sites
 
-- Immidiate Perm Ban, also report user & content to Discord Trust & Safety.
+  - Immidiate Perm Ban, also report user & content to Discord Trust & Safety.
 
 * Gore content including illustrated gore
 
-- Perm Ban
+  - Perm Ban
 
 * Shock Sites/Illegal Sites (e.g., pornhub, kekma)
 
@@ -73,22 +73,22 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
 * Cropped Porn
 
 
-- 1st: 3h Mute
+  - 1st: 3h Mute
 
 
-- 2nd: 3d Ban
+  - 2nd: 3d Ban
 
 
-- 3rd: 7d Ban
+  - 3rd: 7d Ban
 
 
 * Other NSFW (uncropped, graphic)
 
 
-- 1st & 2nd: 7d Ban
+  - 1st & 2nd: 7d Ban
 
 
-- 3rd: Perm Ban
+  - 3rd: Perm Ban
 
 
 
@@ -97,85 +97,85 @@ Humor is subjective, and it can sometimes be difficult to tell the difference be
 
 All punishments listed below assume the member has clearly and fully violated the rule. If the situation is borderline or unclear, use your judgment and consult with other staff before issuing a punishment.
 
-CP / Pedo / Necro / Zoophilia JOKES (If a member posts imagery depicting any of the following, refer to the Severe NSFW Content rule and issue an immediate perm ban.)
+* CP / Pedo / Necro / Zoophilia JOKES (If a member posts imagery depicting any of the following, refer to the Severe NSFW Content rule and issue an immediate perm ban.)
 
 
-1st: 7d Ban
+  - 1st: 7d Ban
 
 
-2nd: Perm Ban
+  - 2nd: Perm Ban
 
 
-People who are famous through gore videos (Ronnie Mcnutt, Charlie Kirk etc.)
+* People who are famous through gore videos (Ronnie Mcnutt, Charlie Kirk etc.)
 
 
-1st: 4d Ban
+  - 1st: 4d Ban
 
 
-2nd: Perm Ban
+  - 2nd: Perm Ban
 
 
-Terrorism Jokes
+* Terrorism Jokes
 
 
-1st: 4d Ban
+ - 1st: 4d Ban
 
 
-2nd: Perm Ban
+ - 2nd: Perm Ban
 
 
-Rape Jokes
+* Rape Jokes
 
 
-1st & 2nd: 7d Ban
+  - 1st & 2nd: 7d Ban
 
 
-3rd: Perm Ban
+  - 3rd: Perm Ban
 
 
 
-KKK Memes/Jokes
+* KKK Memes/Jokes
 
 
-1st: 2d Ban
+  - 1st: 2d Ban
 
 
-2nd: Perm Ban
+  - 2nd: Perm Ban
 
 
 
 #### 🗳️ Politics
-Political extremism 
+* Political extremism 
 
 
-1st: Warn
+  - 1st: Warn
 
 
-2nd: 4d Ban
+  - 2nd: 4d Ban
 
 
-3rd: 12d Ban
+  - 3rd: 12d Ban
 
 Nazism
-Supporting Hitler
+* Supporting Hitler
 
 
-1st: 2d Ban
+  - 1st: 2d Ban
 
 
-2nd: Perm Ban
+  - 2nd: Perm Ban
 
 
-Swastika/nazi dogwhistles in username/PFP/etc (⚡⚡, 1488 etc.)
+* Swastika/nazi dogwhistles in username/PFP/etc (⚡⚡, 1488 etc.)
 
 
-Ask to change it
+  - Ask to change it
 
 
-If they refuse: Perm Ban
+  - If they refuse: Perm Ban
 
 
-Other Nazi-related behavior
+  - Other Nazi-related behavior
 
 
 
@@ -183,94 +183,92 @@ Other Nazi-related behavior
 “fag”: Allowed (community context).
 “nigga”: Allowed (community context).
 
-“faggot” “Nigger” (f-slur and N-word), Slur Bypasses
-Words like “niger”, “fagot”, or video/slur bypasses still count.
-Punish as if the real slur was used.
+* “faggot” “Nigger” (f-slur and N-word), Slur Bypasses Words like “niger”, “fagot”, or video/slur bypasses still count.
 
 
-1st: 24h Mute
+  - 1st: 24h Mute
 
 
-2nd: 7d Ban
+  - 2nd: 7d Ban
 
 
-3rd: Perm Ban
+  - 3rd: Perm Ban
 
 
 
-General homophobia or Racist Behavior:
+* General homophobia or Racist Behavior:
 
 
-1st: 2d Ban
+  - 1st: 2d Ban
 
 
-2nd: 4d Ban
+  - 2nd: 4d Ban
 
 
-3rd: Perm Ban
+  - 3rd: Perm Ban
 
 
 
 #### 👶 Minors / Age Violations
-Suspected Underage
+* Suspected Underage
 
 
-Ask for age. If they refuse or admit to being under 13: Perm Ban
+  - Ask for age. If they refuse or admit to being under 13: Perm Ban
 
 
-Admitted Underage:
+  - Admitted Underage:
 
 
-Any case: Perm Ban
+  - Any case: Perm Ban
 
 
-Sexualizing Themselves (Minor/Adult)
+* Sexualizing Themselves (Minor/Adult)
 
 
-1st: Warning
+  - 1st: Warning
 
 
-2nd: 12h Mute
+  - 2nd: 12h Mute
 
 
-3rd: Perm Ban
+  - 3rd: Perm Ban
 
 
 
 #### ❌ Wrong Channel Use
-Bot commands outside #general, #bot-commands, or #music
+* Bot commands outside #general, #bot-commands, or #music
 
 
-1st: Warning
+  - 1st: Warning
 
 
-Repeat: 3h Mute
+  - Repeat: 3h Mute
 
 
 
 #### 📢 Spam & Ads
-Advertising (includes advertising in dms)
+* Advertising (includes advertising in dms)
 
 
-Any case: 2d Ban
+  - Any case: 2d Ban
 
 
-If NSFW: Perm Ban
+  - If NSFW: Perm Ban
 
 
-Flooding/Spamming
+* Flooding/Spamming
 
 
-3h Mute
+  - 3h Mute
 
 
-Bot Spam
+  - Bot Spam
 
 
-1st: Verbal Warning
+  - 1st: Verbal Warning
 
 
-2nd: 3h Mute
+  - 2nd: 3h Mute
 
 
 

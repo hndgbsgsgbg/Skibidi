@@ -52,7 +52,7 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
 
 * Ban: Permanently removing the member from the server. They cannot rejoin. This is for the most severe violations.
 
-** ALL PUNISHMENTS WILL BE IN THE GUIDEBOOK FURTHER DOWN **
+**ALL PUNISHMENTS WILL BE IN THE GUIDEBOOK FURTHER DOWN**
 
 ### ⚠️ Punishment Guidelines
 

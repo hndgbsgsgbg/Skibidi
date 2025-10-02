@@ -156,7 +156,7 @@ All punishments listed below assume the member has clearly and fully violated th
 
   - 3rd: 12d Ban
 
-Nazism
+
 * Supporting Hitler
 
 

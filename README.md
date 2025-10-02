@@ -82,7 +82,7 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
   - 3rd: 7d Ban
 
 
-* Other NSFW (uncropped, graphic)
+* General NSFW (uncropped, graphic)
 
 
   - 1st & 2nd: 7d Ban
@@ -91,7 +91,17 @@ Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-top
   - 3rd: Perm Ban
 
 
+* Soft core NSFW / suggestive imagery
 
+    - 1st: Warning
+
+
+    - 2nd: 12h mute
+ 
+
+    - 3rd: 3d ban
+
+  
 #### 🤡 Offensive Memes/Jokes
 Humor is subjective, and it can sometimes be difficult to tell the difference between a joke and hateful/harmful conduct. When reviewing situations, always consider context — but also remember that intent does not erase impact.
 
@@ -217,7 +227,7 @@ All punishments listed below assume the member has clearly and fully violated th
   - Ask for age. If they refuse or admit to being under 13: Perm Ban
 
 
-  - Admitted Underage:
+  - Admitted Underage: Perm Ban
 
 
   - Any case: Perm Ban

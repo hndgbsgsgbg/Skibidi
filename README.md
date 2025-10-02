@@ -9,49 +9,49 @@ Welcome to the moderation team! This document outlines our core principles, rule
 🎯 Moderator's Responsibilities & Rules
 Your primary role as a moderator is to foster a safe, welcoming, and engaging environment for our community. You are not just enforcers, but also role models.
 
-* Be Proactive & Active: Don't just wait for reports. Keep an eye on conversations and engage with the community for at least 15–30 minutes per day.
+1. Be Proactive & Active: Don't just wait for reports. Keep an eye on conversations and engage with the community for at least 15–30 minutes per day.
   
-* Be Fair & Consistent: Apply the rules the same way to everyone.
+2. Be Fair & Consistent: Apply the rules the same way to everyone.
   
-* Be Calm & Professional: Dont argue with members. Take difficult conversations to DMs or private threads.
+3. Be Calm & Professional: Dont argue with members. Take difficult conversations to DMs or private threads.
   
-* Lead by Example: Your behavior sets the standard for the entire server.
+4. Lead by Example: Your behavior sets the standard for the entire server.
 
-* Punish Correctly: Follow server rules and the moderation handbook strictly when issuing warnings, bans, mutes, etc.
+5. Punish Correctly: Follow server rules and the moderation handbook strictly when issuing warnings, bans, mutes, etc.
 
-* Respond to Mod Pings: Make an effort to respond promptly when tagged.
+6. Respond to Mod Pings: Make an effort to respond promptly when tagged.
 
-* Respect the Team: Follow directions from higher ranks, and treat lower ranks with respect. We work as a team — disagreements should be handled calmly and constructively.
+7. Respect the Team: Follow directions from higher ranks, and treat lower ranks with respect. We work as a team — disagreements should be handled calmly and constructively.
 
-* No Abuse of Power: Do not assign yourself roles/levels you have not earned.
+8. No Abuse of Power: Do not assign yourself roles/levels you have not earned.
 
-* Tidy Punishment Logs: Keep reasons clear, professional, and free of slurs or irrelevant content. Untidy logs can result in demotion.
+9. Tidy Punishment Logs: Keep reasons clear, professional, and free of slurs or irrelevant content. Untidy logs can result in demotion.
 
-* Staff-chat: Staff Discussions Stay in staff-chat. Keep internal matters private and professional.
+10. Staff-chat: Staff Discussions Stay in staff-chat. Keep internal matters private and professional.
 
-* Limit Role Pings: Do not ping non-personal roles. (Exception: chat revive)
+11. Limit Role Pings: Do not ping non-personal roles. (Exception: chat revive)
 
-* No Stat Padding: Do not spam punishments to boost ModStats. This will lead to demotion.
+12. No Stat Padding: Do not spam punishments to boost ModStats. This will lead to demotion.
 
-* Equal Accountability: Staff breaking rules will be treated like any regular member and punished accordingly.
+13. Equal Accountability: Staff breaking rules will be treated like any regular member and punished accordingly.
 
-* No Bribes: Accepting bribes for staff privileges or actions is strictly prohibited — even if we’re understaffed.
+14. No Bribes: Accepting bribes for staff privileges or actions is strictly prohibited — even if we’re understaffed.
 
 ⚖️ The rule hierarchy (Enforcement Steps)
 We use an escalation system to be fair and give members a chance to correct their behavior. The severity of the action can skip steps for serious offenses.
 
-Standard Process: Verbal Warning (Public or DM): A friendly, but clear, reminder of the rules. Use this for minor, first-time offenses.
+* Standard Process: Verbal Warning (Public or DM): A friendly, but clear, reminder of the rules. Use this for minor, first-time offenses.
 Example DM: "Hey! Just a quick heads-up, please keep the chat in #general on-topic. Thanks!"
 
-Formal Warning (Logged): An official warning logged in a private mod channel. Clearly state which rule was broken, use dyno.
+* Formal Warning (Logged): An official warning logged in a private mod channel. Clearly state which rule was broken, use dyno.
 
-Temporary Mute/Timeout: Give timeouts depending on what says later in the doc.
+* Temporary Mute/Timeout: Give timeouts depending on what says later in the doc.
 
-Kick: Removing the member from the server. They can rejoin with an invite. Use this for persistent rule-breaking after warnings, or for medium-level offenses.
+* Kick: Removing the member from the server. They can rejoin with an invite. Use this for persistent rule-breaking after warnings, or for medium-level offenses.
 
-Ban: Permanently removing the member from the server. They cannot rejoin. This is for the most severe violations.
+* Ban: Permanently removing the member from the server. They cannot rejoin. This is for the most severe violations.
 
-ALL PUNISHMENTS WILL BE IN THE GUIDEBOOK FURTHER DOWN
+** ALL PUNISHMENTS WILL BE IN THE GUIDEBOOK FURTHER DOWN **
 
 ⚠️ Punishment Guidelines
 
